@@ -12,20 +12,14 @@ class Program
         {
             string letterGrade;
 
-            if (grade >= 80)
+            if (grade >= 90)
                 letterGrade = "A";
-            else if (grade >= 75)
-                letterGrade = "B+";
-            else if (grade >= 70)
+            else if (grade >= 80)
                 letterGrade = "B";
-            else if (grade >= 65)
-                letterGrade = "C+";
-            else if (grade >= 60)
+            else if (grade >= 70)
                 letterGrade = "C";
-            else if (grade >= 55)
+            else if (grade >= 60)
                 letterGrade = "D";
-            else if (grade >= 50)
-                letterGrade = "E";
             else
                 letterGrade = "F";
 
