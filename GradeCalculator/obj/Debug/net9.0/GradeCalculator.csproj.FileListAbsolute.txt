@@ -1,0 +1,14 @@
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\bin\Debug\net9.0\GradeCalculator.exe
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\bin\Debug\net9.0\GradeCalculator.deps.json
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\bin\Debug\net9.0\GradeCalculator.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\bin\Debug\net9.0\GradeCalculator.dll
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\bin\Debug\net9.0\GradeCalculator.pdb
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.dll
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculator.dll
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\Dcit\dcit318-assignment1-11293905\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
